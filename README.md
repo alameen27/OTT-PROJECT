@@ -47,7 +47,7 @@ This project is a web application designed to deliver an Over-The-Top (OTT) plat
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone repository-url>](https://github.com/alameen27/OTT-PROJECT.git
    cd ott-platform
    ```
 
